@@ -7,8 +7,8 @@ class ApiService {
 
     // Create the request body
     Map<String, String> requestBody = {
-      "client_id": "9Sm4MbSnZv7vRQ995fGQ3SOcUVVpwShRdi18g-Kqh28",
-      "client_secret": "-UO0QbdgpsiwmRPiaVUsEuTH5NbYSFNH-CLJQYteD9c",
+      "client_id": "NOBOYNO-Kqh28",
+      "client_secret": "-YOURGIR?THENNOTOO-CLJQYteD9c",
       "username": username,
       "password": password,
     };
