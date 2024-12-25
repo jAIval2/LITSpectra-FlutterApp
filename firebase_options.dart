@@ -41,13 +41,13 @@ class DefaultFirebaseOptions {
   }
 
   static const FirebaseOptions web = FirebaseOptions(
-    apiKey: 'AIzaSyD1aFcDr0pJMaxTp8irwQgI_F6FikNydt0',
-    appId: '1:203555324438:web:2a243642d96834e2692b37',
-    messagingSenderId: '203555324438',
+    apiKey: 'GETYOURAPIKEY',
+    appId: 'GETYOUROWN',
+    messagingSenderId: 'GETYOURS',
     projectId: 'litspetcra',
     authDomain: 'litspetcra.firebaseapp.com',
     storageBucket: 'litspetcra.appspot.com',
-    measurementId: 'G-323GQJ4BS7',
+    measurementId: 'NOPE',
   );
 
   static const FirebaseOptions android = FirebaseOptions(
